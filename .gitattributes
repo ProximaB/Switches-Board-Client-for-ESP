@@ -1,1 +1,3 @@
 BoardEsp/Debug/* linguist-vendored
+ESP01s/Debug/* linguist-vendored
+ESP8266/Debug/* linguist-vendored
