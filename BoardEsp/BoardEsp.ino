@@ -51,7 +51,7 @@ void setupPins()
 
 	digitalWrite(_switch, 1);
 	digitalWrite(led, 1);
-	analogWrite(greenLed, 100);
+	analogWrite(greenLed, 120);
 }
 
 void greenLedBlink(void)
@@ -60,7 +60,7 @@ void greenLedBlink(void)
 
 	for (int i = 1; i <= 3; i++)
 	{
-		digitalWrite(greenLed, (i % 2) * 100);
+		analogWrite(greenLed, (i % 2) * 120);
 		delay(30);
 	}
 }
