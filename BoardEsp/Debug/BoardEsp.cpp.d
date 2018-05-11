@@ -82,5 +82,4 @@ C:\Users\barte\AppData\Local\Temp\VMBuilds\BoardEsp\esp8266_nodemcuv2\Debug\Boar
  C:\Users\barte\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.0\libraries\ESP8266WiFi\src/ESP8266WiFi.h \
  C:\Users\barte\Documents\Arduino\libraries\WebSockets\src/WebSocketsClient.h \
  C:\Users\barte\Documents\Arduino\libraries\WebSockets\src/WebSockets.h \
- C:\Users\barte\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.0\libraries\Hash\src/Hash.h \
- C:\Program\ Files\ (x86)\Microsoft\ Visual\ Studio\2017\Enterprise\Common7\IDE\Extensions\xaohtdp2.q2m\Micro\ Platforms\default\debuggers\VM_DBG/VM_DBG.h
+ C:\Users\barte\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.0\libraries\Hash\src/Hash.h
